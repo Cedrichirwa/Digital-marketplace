@@ -56,7 +56,7 @@ export default function Home() {
               Browse Trending
             </Link>
             <Button variant='ghost' className='text-black-200'>
-              Mount Kenya University &rarr;
+              Shop whole collection
             </Button>
           </div>
         </div>
